@@ -1,0 +1,202 @@
+{
+    "equipment": [
+        {
+            "name": "陶坛",
+            "img":"storage/陶坛.png"
+        },
+        {
+            "name": "水泥池",
+            "img":"storage/水泥池.png"
+        },
+        {
+            "name": "金属罐",
+            "img":"storage/金属罐.png"
+        },
+        {
+            "name": "酒海",
+            "img":"storage/酒海.png"
+        }
+    ],
+    "year": [
+        {
+            "name": 0.5,
+            "flow": 0
+        },
+        {
+            "name": 3,
+            "flow": 0
+        },
+        {
+            "name": 4,
+            "flow": 0
+        },
+        {
+            "name": 5,
+            "flow": 0
+        }
+    ],
+    "flavor": [
+        {
+            "name": "浓香型"
+        },
+        {
+            "name": "酱香型"
+        },
+        {
+            "name": "清香型"
+        },
+        {
+            "name": "米香型"
+        },
+        {
+            "name": "芝麻香型"
+        },
+        {
+            "name": "兼香型"
+        },
+        {
+            "name": "豉香型"
+        },
+        {
+            "name": "老白干型"
+        },
+        {
+            "name": "馥郁香型"
+        },
+        {
+            "name": "特型"
+        },
+        {
+            "name": "凤香型"
+        },
+        {
+            "name": "药香型"
+        }
+    ],
+    "link": [
+        {
+            "name": "浓香型",
+            "link": [
+                {
+                    "equipment": "陶坛",
+                    "year": 3
+                },
+                {
+                    "equipment": "水泥池",
+                    "year": 3
+                },
+                {
+                    "equipment": "金属罐",
+                    "year": 3
+                }
+            ]
+        },
+        {
+            "name": "酱香型",
+            "link": [
+                {
+                    "equipment": "陶坛",
+                    "year": 5
+                }
+            ]
+        },
+        {
+            "name": "清香型",
+            "link": [
+                {
+                    "equipment": "陶坛",
+                    "year": 4
+                }
+            ]
+        },
+        {
+            "name": "米香型",
+            "link": [
+                {
+                    "equipment": "陶坛",
+                    "year": 0.5
+                },
+                {
+                    "equipment": "金属罐",
+                    "year": 0.5
+                }
+            ]
+        },
+        {
+            "name": "芝麻香型",
+            "link": [
+                {
+                    "equipment": "陶坛",
+                    "year": 3
+                }
+            ]
+        },
+        {
+            "name": "兼香型",
+            "link": [
+                {
+                    "equipment": "陶坛",
+                    "year": 3
+                }
+            ]
+        },
+        {
+            "name": "豉香型",
+            "link": [
+                {
+                    "equipment": "金属罐",
+                    "year": 0.5
+                },
+                {
+                    "equipment": "水泥池",
+                    "year": 0.5
+                }
+            ]
+        },
+        {
+            "name": "老白干型",
+            "link": [
+                {
+                    "equipment": "陶坛",
+                    "year": 0.5
+                }
+            ]
+        },
+        {
+            "name": "馥郁香型",
+            "link": [
+                {
+                    "equipment": "陶坛",
+                    "year": 3
+                }
+            ]
+        },
+        {
+            "name": "特型",
+            "link": [
+                {
+                    "equipment": "陶坛",
+                    "year": 3
+                }
+            ]
+        },
+        {
+            "name": "凤香型",
+            "link": [
+                {
+                    "equipment": "酒海",
+                    "year": 3
+                }
+            ]
+        },
+        {
+            "name": "药香型",
+            "link": [
+                {
+                    "equipment": "陶坛",
+                    "year": 0.5
+                }
+            ]
+        }
+    ]
+}

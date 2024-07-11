@@ -1,0 +1,545 @@
+[
+  {
+    "name": "浓香型",
+    "dot": [
+      {
+        "name": "制坯",
+        "children": [
+          {
+            "name": "压胚"
+          },
+          {
+            "name": "顶胚"
+          }
+        ],
+        "direct": 1
+      },
+      {
+        "name": "曲坯转移",
+        "children": [
+          {
+            "name": "接曲坯"
+          },
+          {
+            "name": "堆码"
+          },
+          {
+            "name": "覆盖"
+          },
+          {
+            "name": "运曲"
+          }
+        ],
+        "direct": 1
+      },
+      {
+        "name": "培菌发酵",
+        "children": [
+          {
+            "name": "发酵温度"
+          },
+          {
+            "name": "翻曲"
+          },
+          {
+            "name": "转化"
+          }
+        ],
+        "direct": 1
+      },
+      {
+        "name": "储存",
+        "children": [
+          {
+            "name": "清扫"
+          },
+          {
+            "name": "铺垫"
+          }
+        ],
+        "direct": 1
+      },
+      {
+        "name": "成品粉碎",
+        "direct": 1
+      }
+    ],
+    "direct": 1
+  },
+  {
+    "name": "酱香型",
+    "dot": [
+      {
+        "name": "踩制曲坯",
+        "children": [
+          {
+            "name": "加粉"
+          },
+          {
+            "name": "包包曲"
+          }
+        ],
+        "direct": 1
+      },
+      {
+        "name": "入房培养",
+        "children": [
+          {
+            "name": "翻曲1"
+          },
+          {
+            "name": "翻曲2"
+          }
+        ],
+        "direct": 1
+      },
+      {
+        "name": "入库贮存",
+        "direct": 1
+      }
+    ],
+    "direct": 1
+  },
+  {
+    "name": "清香型（清茬曲）",
+    "dot": [
+      {
+        "name": "机械制曲",
+        "children": [
+          {
+            "name": "加水"
+          },
+          {
+            "name": "压坯"
+          }
+        ],
+        "direct": 1
+      },
+      {
+        "name": "入房培养",
+        "children": [
+          {
+            "name": "排列",
+            "children": [
+              {
+                "name": "清扫"
+              },
+              {
+                "name": "撒谷糠"
+              },
+              {
+                "name": "铺曲"
+              }
+            ],
+            "direct": 1
+          },
+          {
+            "name": "上霉",
+            "children": [
+              {
+                "name": "保温"
+              },
+              {
+                "name": "翻曲"
+              },
+              {
+                "name": "重排"
+              }
+            ],
+            "direct": 1
+          },
+          {
+            "name": "晾霉",
+            "children": [
+              {
+                "name": "翻曲"
+              },
+              {
+                "name": "保温"
+              },
+              {
+                "name": "关窗"
+              }
+            ],
+            "direct": 1
+          },
+          {
+            "name": "潮火",
+            "children": [
+              {
+                "name": "开小窗"
+              },
+              {
+                "name": "翻曲"
+              },
+              {
+                "name": "关窗"
+              },
+              {
+                "name": "放潮"
+              }
+            ],
+            "direct": 1
+          },
+          {
+            "name": "干火",
+            "children": [
+              {
+                "name": "防烧心"
+              },
+              {
+                "name": "曲香"
+              },
+              {
+                "name": "后火"
+              }
+            ],
+            "direct": 1
+          }
+        ],
+        "direct": 1
+      },
+      {
+        "name": "储存",
+        "direct": 1
+      }
+    ],
+    "direct": 1
+  },
+  {
+    "name": "米香型",
+    "dot": [
+      {
+        "name": "制坯",
+        "children": [
+          {
+            "name": "混合"
+          },
+          {
+            "name": "压坯"
+          },
+          {
+            "name": "曲坯粒"
+          }
+        ],
+        "direct": 1
+      },
+      {
+        "name": "裹粉",
+        "children": [
+          {
+            "name": "混合"
+          },
+          {
+            "name": "洒水"
+          },
+          {
+            "name": "撒曲母"
+          }
+        ],
+        "direct": 1
+      },
+      {
+        "name": "培菌",
+        "children": [
+          {
+            "name": "前期"
+          },
+          {
+            "name": "中期"
+          },
+          {
+            "name": "后期"
+          }
+        ],
+        "direct": 1
+      },
+      {
+        "name": "贮存",
+        "direct": 1
+      }
+    ],
+    "direct": 1
+  },
+  {
+    "name": "芝麻香型",
+    "dot": [
+      {
+        "name": "培菌",
+        "direct": 1
+      },
+      {
+        "name": "贮存",
+        "direct": 1
+      }
+    ],
+    "direct": 1
+  },
+  {
+    "name": "兼香型",
+    "dot": [
+      {
+        "name": "制坯",
+        "children": [
+          {
+            "name": "踩曲"
+          },
+          {
+            "name": "晾曲"
+          }
+        ],
+        "direct": 1
+      },
+      {
+        "name": "入房培养",
+        "children": [
+          {
+            "name": "打扫"
+          },
+          {
+            "name": "铺稻草"
+          },
+          {
+            "name": "排列"
+          },
+          {
+            "name": "培菌",
+            "children": [
+              {
+                "name": "覆盖"
+              },
+              {
+                "name": "关闭门窗"
+              },
+              {
+                "name": "保温"
+              },
+              {
+                "name": "保潮"
+              }
+            ],
+            "direct": 1
+          },
+          {
+            "name": "摘草"
+          },
+          {
+            "name": "降温"
+          }
+        ],
+        "direct": 1
+      },
+      {
+        "name": "质量检验",
+        "direct": 1
+      },
+      {
+        "name": "贮存",
+        "direct": 1
+      }
+    ],
+    "direct": 1
+  },
+  {
+    "name": "豉香型（饼丸）",
+    "dot": [
+      {
+        "name": "切粒",
+        "direct": 1
+      },
+      {
+        "name": "入房培养",
+        "children": [
+          {
+            "name": "干燥"
+          }
+        ],
+        "direct": 1
+      },
+      {
+        "name": "贮存",
+        "direct": 1
+      }
+    ],
+    "direct": 1
+  },
+  {
+    "name": "老白干型",
+    "dot": [
+      {
+        "name": "曲坯成型",
+        "children": [
+          {
+            "name": "装模"
+          },
+          {
+            "name": "压制"
+          },
+          {
+            "name": "排列"
+          }
+        ],
+        "direct": 1
+      },
+      {
+        "name": "入房培养",
+        "children": [
+          {
+            "name": "上霉"
+          },
+          {
+            "name": "晾霉"
+          },
+          {
+            "name": "潮火"
+          },
+          {
+            "name": "中火"
+          },
+          {
+            "name": "后火"
+          }
+        ],
+        "direct": 1
+      },
+      {
+        "name": "贮存",
+        "direct": 1
+      }
+    ],
+    "direct": 1
+  },
+  {
+    "name": "馥郁香型（大曲）",
+    "dot": [
+      {
+        "name": "入房培养",
+        "children": [
+          {
+            "name": "安曲"
+          },
+          {
+            "name": "前期"
+          },
+          {
+            "name": "升温期"
+          },
+          {
+            "name": "控温期"
+          }
+        ],
+        "direct": 1
+      },
+      {
+        "name": "贮存",
+        "direct": 1
+      }
+    ]
+  },
+  {
+    "name": "凤香型",
+    "dot": [
+      {
+        "name": "培菌",
+        "children": [
+          {
+            "name": "上霉"
+          },
+          {
+            "name": "晾霉",
+            "children": [
+              {
+                "name": "翻曲1"
+              },
+              {
+                "name": "翻曲2"
+              },
+              {
+                "name": "翻曲3"
+              }
+            ],
+            "direct": 1
+          },
+          {
+            "name": "潮火"
+          },
+          {
+            "name": "大火"
+          },
+          {
+            "name": "后火"
+          },
+          {
+            "name": "晾架"
+          }
+        ],
+        "direct": 1
+      },
+      {
+        "name": "贮存",
+        "direct": 1
+      }
+    ],
+    "direct": 1
+  },
+  {
+    "name": "特型",
+    "dot": [
+      {
+        "name": "制曲",
+        "children": [
+          {
+            "name": "打曲"
+          },
+          {
+            "name": "检曲"
+          },
+          {
+            "name": "送曲",
+            "children": [
+              {
+                "name": "摆曲"
+              },
+              {
+                "name": "盖稻草"
+              }
+            ],
+            "direct": 1
+          }
+        ],
+        "direct": 1
+      },
+      {
+        "name": "培菌",
+        "direct": 1
+      },
+      {
+        "name": "贮存",
+        "direct": 1
+      }
+    ],
+    "direct": 1
+  },
+  {
+    "name": "药香型",
+    "dot": [
+      {
+        "name": "培菌",
+        "children": [
+          {
+            "name": "糖化"
+          },
+          {
+            "name": "加草药"
+          }
+        ],
+        "direct": 1
+      },
+      {
+        "name": "贮存",
+        "direct": 1
+      }
+    ],
+    "direct": 1
+  }
+]

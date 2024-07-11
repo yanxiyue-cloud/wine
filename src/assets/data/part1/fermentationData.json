@@ -1,0 +1,360 @@
+[
+    {
+        "name": "浓香型",
+        "dose": "中偏高温大曲",
+        "equipment": "泥窖",
+        "way": "原窖分层堆糟",
+        "period": 31,
+        "round": "三",
+        "stage": [
+            {
+                "name": "入窖",
+                "temperature": 20
+            },
+            {
+                "name": " 4d",
+                "temperature": 28
+            },
+            {
+                "name": " 8d",
+                "temperature": 30
+            },
+            {
+                "name": "15d",
+                "temperature": 35
+            },
+            {
+                "name": "19d",
+                "temperature": 39
+            },
+            {
+                "name": "23d",
+                "temperature": 37
+            },
+            {
+                "name": "27d",
+                "temperature": 35
+            },
+            {
+                "name": "31d",
+                "temperature": 27
+            },
+            {
+                "name": "出窖",
+                "temperature": 24
+            }
+        ]
+    },
+    {
+        "name": "酱香型",
+        "dose": "高温大曲",
+        "equipment": "条石窖",
+        "way": "高温堆积发酵",
+        "period": 31,
+        "round": "八",
+        "stage": [
+            {
+                "name": "入窖",
+                "temperature": 35
+            },
+            {
+                "name": " 1d",
+                "temperature": 37
+            },
+            {
+                "name": " 5d",
+                "temperature": 40.5
+            },
+            {
+                "name": " 7d",
+                "temperature": 43
+            },
+            {
+                "name": "18d",
+                "temperature": 41
+            },
+            {
+                "name": "23d",
+                "temperature": 41
+            },
+            {
+                "name": "27d",
+                "temperature": 41
+            },
+            {
+                "name": "31d",
+                "temperature": 41
+            },
+            {
+                "name": "出窖",
+                "temperature": 40
+            }
+        ]
+    },
+    {
+        "name": "清香型",
+        "dose": "低温大曲",
+        "equipment": "水泥池",
+        "way": "清蒸清糟固态发酵",
+        "period": "28",
+        "stage": [
+            {
+                "name": "入池",
+                "temperature": 20
+            },
+            {
+                "name": " 1d",
+                "temperature": 28
+            },
+            {
+                "name": " 7d",
+                "temperature": 28
+            },
+            {
+                "name": "17d",
+                "temperature": 30
+            },
+            {
+                "name": "30d",
+                "temperature": 24
+            },
+            {
+                "name": "出池",
+                "temperature": 22
+            }
+        ]
+    },
+    {
+        "name": "米香型",
+        "dose": "小曲",
+        "equipment": "大罐",
+        "way": "固态培菌发酵",
+        "period": 7,
+        "stage": [
+            {
+                "name": "入罐",
+                "temperature": 30
+            },
+            {
+                "name": "发酵期",
+                "temperature": 40
+            },
+            {
+                "name": "出罐",
+                "temperature": 35
+            }
+        ]
+    },
+    {
+        "name": "芝麻香型",
+        "dose": "中偏高温大曲",
+        "equipment": "砖池",
+        "way": "混蒸混烧多曲高温发酵",
+        "period": 40,
+        "stage": [
+            {
+                "name": "入池",
+                "temperature": 30
+            },
+            {
+                "name": "主发酵期",
+                "temperature": 40
+            },
+            {
+                "name": "40d",
+                "temperature": 38
+            },
+            {
+                "name": "出窖",
+                "temperature": 35
+            }
+        ]
+    },
+    {
+        "name": "兼香型",
+        "dose": "高温大曲",
+        "equipment": "水泥池",
+        "way": "混蒸续糟固态发酵",
+        "period": 30,
+        "stage": [
+            {
+                "name": "入池",
+                "temperature": 55
+            },
+            {
+                "name": "发酵30d",
+                "temperature": 50
+            },
+            {
+                "name": "堆积3d",
+                "temperature": 54
+            },
+            {
+                "name": "发酵30d",
+                "temperature": 50
+            },
+            {
+                "name": "堆积3d",
+                "temperature": 45
+            },
+            {
+                "name": "发酵30d",
+                "temperature": 42
+            },
+            {
+                "name": "出池",
+                "temperature": 42
+            }
+        ]
+    },
+    {
+        "name": "豉香型",
+        "dose": "酒饼",
+        "equipment": "大罐",
+        "way": "浓醪发酵",
+        "period": 20,
+        "stage": [
+            {
+                "name": "入罐",
+                "temperature": 30
+            },
+            {
+                "name": " 3d",
+                "temperature": 35
+            },
+            {
+                "name": "14d",
+                "temperature": 38
+            },
+            {
+                "name": "20d",
+                "temperature": 36
+            },
+            {
+                "name": "出罐",
+                "temperature": 36
+            }
+        ]
+    },
+    {
+        "name": "老白干型",
+        "dose": "中温大曲",
+        "equipment": "地缸",
+        "way": "续楂混烧老五甑",
+        "period": 15,
+        "stage": [
+            {
+                "name": "入缸",
+                "temperature": 25
+            },
+            {
+                "name": "主发酵期",
+                "temperature": 22
+            },
+            {
+                "name": "出缸",
+                "temperature": 20
+            }
+        ]
+    },
+    {
+        "name": "馥郁香型",
+        "dose": "小曲、大曲",
+        "equipment": "泥窖",
+        "way": "小曲糖化大曲发酵",
+        "period": 60,
+        "stage": [
+            {
+                "name": "入窖",
+                "temperature": 28
+            },
+            {
+                "name": "50d",
+                "temperature": 32
+            },
+            {
+                "name": "60d",
+                "temperature": 30
+            },
+            {
+                "name": "出窖",
+                "temperature": 26
+            }
+        ]
+    },
+    {
+        "name": "凤香",
+        "dose": "中偏高温大曲",
+        "equipment": "土窖",
+        "way": "混蒸混楂老六甑",
+        "period": 30,
+        "stage": [
+            {
+                "name": "立窖",
+                "temperature": 15
+            },
+            {
+                "name": "破窖",
+                "temperature": 19
+            },
+            {
+                "name": "顶窖",
+                "temperature": 20
+            },
+            {
+                "name": "圆窖",
+                "temperature": 25
+            }
+        ]
+    },
+    {
+        "name": "特型",
+        "dose": "大曲",
+        "equipment": "红条石砌窖",
+        "way": "续楂混蒸四甑",
+        "period": 30,
+        "stage": [
+            {
+                "name": "入窖（冬）",
+                "temperature": 24
+            },
+            {
+                "name": "主发酵期",
+                "temperature": 38
+            },
+            {
+                "name": "30d",
+                "temperature": 30
+            },
+            {
+                "name": "出窖",
+                "temperature": 28
+            }
+        ]
+    },
+    {
+        "name": "药香型",
+        "dose": "小曲、大曲",
+        "equipment": "碱性窖池",
+        "way": "大小曲分开固态发酵",
+        "period": 7,
+        "stage": [
+            {
+                "name": "入窖",
+                "temperature": 28
+            },
+            {
+                "name": "主发酵期",
+                "temperature": 38
+            },
+            {
+                "name": " 7d",
+                "temperature": 30
+            },
+            {
+                "name": "出窖",
+                "temperature": 28
+            }
+        ]
+    }
+]

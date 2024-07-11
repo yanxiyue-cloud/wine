@@ -1,0 +1,93 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    width: 100%;
+    height: 100%;
+    // border-right: 1px dashed #d0d0c8;
+    color: rgb(194, 151, 123);
+
+    .compositionChart {
+        width: 100%;
+        height: 100%;
+        position: relative;
+    }
+
+    .tooltip {
+        background: white;
+        box-shadow: 0 0 5px #999999;
+        border: 5px solid rgba(168, 167, 150, 0.971);
+        color: #333;
+        width: 250px;
+        height: 86px;
+        font-size: 20px;
+        left: 130px;
+        padding: 10px;
+        position: absolute;
+        text-align: center;
+        top: 95px;
+        z-index: 1000;
+        display: block;
+        opacity: 0;
+        font-family: kaiTi;
+        pointer-events: none;
+
+        .text-describe {
+            width: 100%;
+            height: 40%;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+        }
+    }
+}
+
+
+.compositionChart {
+    .tooltip-cps {
+        // color: #7cbeb5;
+        position: absolute;
+        left: 0;
+        top: 0;
+        background: white;
+        box-shadow: 0 0 5px #999999;
+        border: 5px solid rgba(168, 167, 150, 0.971);
+        color: #333;
+        font-size: 18px;
+        height: 40px;
+        padding: 10px;
+        text-align: center;
+        z-index: 10;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        opacity: 0;
+        pointer-events: none;
+    }
+
+    .feature {
+        position: absolute;
+        bottom: 0px;
+        left: 30px;
+    }
+
+    .flavorTextTitle {
+        font-size: 32px;
+        text-align: left;
+        bottom: 120px;
+        position: absolute;
+        font-family: STXingkai;
+    }
+
+    .flavorText {
+        font-size: 16px;
+        width: 20rem;
+        margin-bottom: 50px;
+        text-align: left;
+        font-family: KaiTi;
+        font-weight: bold;
+    }
+}

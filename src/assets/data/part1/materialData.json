@@ -1,0 +1,1074 @@
+{
+    "flavor": [
+        {
+            "name": "浓香型",
+            "main": {
+                "koji": [
+                    {
+                        "material": "小麦",
+                        "comminution": 4
+                    },
+                    {
+                        "material": "高粱",
+                        "comminution": 4
+                    },
+                    {
+                        "material": "大麦",
+                        "comminution": 9
+                    },
+                    {
+                        "material": "豌豆",
+                        "comminution": 9
+                    }
+                ],
+                "brew": [
+                    {
+                        "type": 0,
+                        "material": "高粱",
+                        "comminution": 4
+                    },
+                    {
+                        "type": 1,
+                        "material": "小麦",
+                        "comminution": 4
+                    },
+                    {
+                        "type": 1,
+                        "material": "大麦",
+                        "comminution": 9
+                    },
+                    {
+                        "type": 1,
+                        "material": "豌豆",
+                        "comminution": 9
+                    }
+                ]
+            }
+        },
+        {
+            "name": "酱香型",
+            "main": {
+                "koji": [
+                    {
+                        "material": "小麦",
+                        "comminution": 0
+                    }
+                ],
+                "brew": [
+                    {
+                        "type": 1,
+                        "material": "稻壳",
+                        "comminution": 0
+                    },
+                    {
+                        "type": 0,
+                        "material": "高粱",
+                        "comminution": 3
+                    }
+                ]
+            }
+        },
+        {
+            "name": "清香型",
+            "main": {
+                "koji": [
+                    {
+                        "material": "大麦",
+                        "comminution": 8
+                    },
+                    {
+                        "material": "豌豆",
+                        "comminution": 8
+                    }
+                ],
+                "brew": [
+                    {
+                        "type": 1,
+                        "material": "小米糠",
+                        "comminution": 0
+                    },
+                    {
+                        "type": 0,
+                        "material": "高粱",
+                        "comminution": 2
+                    }
+                ]
+            }
+        },
+        {
+            "name": "米香型",
+            "main": {
+                "koji": [
+                    {
+                        "material": "辣蓼草",
+                        "comminution": 0
+                    },
+                    {
+                        "material": "米粉",
+                        "comminution": 10
+                    }
+                ],
+                "brew": [
+                    {
+                        "type": 0,
+                        "material": "大米",
+                        "comminution": 8
+                    }
+                ]
+            }
+        },
+        {
+            "name": "芝麻香型",
+            "main": {
+                "koji": [
+                    {
+                        "material": "小麦",
+                        "comminution": 0
+                    }
+                ],
+                "brew": [
+                    {
+                        "type": 1,
+                        "material": "荻皮",
+                        "comminution": 0
+                    },
+                    {
+                        "type": 0,
+                        "material": "高粱",
+                        "comminution": 3
+                    },
+                    {
+                        "type": 1,
+                        "material": "玉米",
+                        "comminution": 3
+                    }
+                ]
+            }
+        },
+        {
+            "name": "兼香型",
+            "main": {
+                "koji": [
+                    {
+                        "material": "小麦",
+                        "comminution": 0
+                    }
+                ],
+                "brew": [
+                    {
+                        "type": 0,
+                        "material": "高粱",
+                        "comminution": 2
+                    },
+                    {
+                        "type": 1,
+                        "material": "稻壳",
+                        "comminution": 4
+                    }
+                ]
+            }
+        },
+        {
+            "name": "豉香型",
+            "main": {
+                "koji": [
+                    {
+                        "material": "大米",
+                        "comminution": 8
+                    },
+                    {
+                        "material": "黄豆",
+                        "comminution": 8
+                    },
+                    {
+                        "material": "饼泥",
+                        "comminution": 8
+                    },
+                    {
+                        "material": "饼叶",
+                        "comminution": 8
+                    }
+                ],
+                "brew": [
+                    {
+                        "type": 0,
+                        "material": "大米",
+                        "comminution": 8
+                    },
+                    {
+                        "type": 1,
+                        "material": "黄豆",
+                        "comminution": 8
+                    }
+                ]
+            }
+        },
+        {
+            "name": "老白干香型",
+            "main": {
+                "koji": [
+                    {
+                        "material": "小麦",
+                        "comminution": 0
+                    }
+                ],
+                "brew": [
+                    {
+                        "type": 0,
+                        "material": "小麦",
+                        "comminution": 0
+                    },
+                    {
+                        "type": 1,
+                        "material": "稻壳",
+                        "comminution": 0
+                    },
+                    {
+                        "type": 1,
+                        "material": "高粱",
+                        "comminution": 4
+                    }
+                ]
+            }
+        },
+        {
+            "name": "馥郁香型",
+            "main": {
+                "koji": [
+                    {
+                        "material": "高粱",
+                        "comminution": 0
+                    }
+                ],
+                "brew": [
+                    {
+                        "type": 1,
+                        "material": "大米",
+                        "comminution": 0
+                    },
+                    {
+                        "type": 1,
+                        "material": "糯米",
+                        "comminution": 0
+                    },
+                    {
+                        "type": 1,
+                        "material": "小麦",
+                        "comminution": 0
+                    },
+                    {
+                        "type": 0,
+                        "material": "高粱",
+                        "comminution": 4
+                    },
+                    {
+                        "type": 1,
+                        "material": "玉米",
+                        "comminution": 7
+                    }
+                ]
+            }
+        },
+        {
+            "name": "凤香型",
+            "main": {
+                "koji": [
+                    {
+                        "material": "大麦",
+                        "comminution": 0
+                    },
+                    {
+                        "material": "豌豆",
+                        "comminution": 0
+                    }
+                ],
+                "brew": [
+                    {
+                        "type": 0,
+                        "material": "高粱",
+                        "comminution": 5
+                    },
+                    {
+                        "type": 1,
+                        "material": "稻壳",
+                        "comminution": 5
+                    }
+                ]
+            }
+        },
+        {
+            "name": "特香型",
+            "main": {
+                "koji": [
+                    {
+                        "material": "面粉",
+                        "comminution": 0
+                    },
+                    {
+                        "material": "麦麸",
+                        "comminution": 0
+                    }
+                ],
+                "brew": [
+                    {
+                        "type": 0,
+                        "material": "大米",
+                        "comminution": 0
+                    },
+                    {
+                        "type": 1,
+                        "material": "稻壳",
+                        "comminution": 0
+                    }
+                ]
+            }
+        },
+        {
+            "name": "药香型",
+            "main": {
+                "koji": [
+                    {
+                        "material": "大米",
+                        "comminution": 0
+                    },
+                    {
+                        "material": "大麦",
+                        "comminution": 0
+                    },
+                    {
+                        "material": "中草药",
+                        "comminution": 0
+                    }
+                ],
+                "brew": [
+                    {
+                        "type": 0,
+                        "material": "高粱",
+                        "comminution": 0
+                    },
+                    {
+                        "type": 1,
+                        "material": "稻壳",
+                        "comminution": 0
+                    }
+                ]
+            }
+        }
+    ],
+    "total": [
+        {
+            "flavor": "浓香型",
+            "material": [
+                "小麦",
+                "豌豆",
+                "高粱",
+                "玉米",
+                "糯米",
+                "大米"
+            ],
+            "wine": [
+                {
+                    "name": "泸州老窖",
+                    "material": [
+                        "小麦",
+                        "豌豆",
+                        "高粱"
+                    ],
+                    "pic": "LuZhouLaoJiao"
+                },{
+                    "name": "五粮液酒",
+                    "material": [
+                        "小麦",
+                        "高粱",
+                        "玉米",
+                        "糯米",
+                        "大米"
+                    ],
+                    "pic": "WuLiangYe"
+                },
+                {
+                    "name": "剑南春酒",
+                    "material": [
+                        "高粱",
+                        "大米",
+                        "糯米",
+                        "小麦",
+                        "玉米"
+                    ],
+                    "pic": "JianNanCHun"
+                },
+                {
+                    "name": "古井贡酒",
+                    "material": [
+                        "小麦",
+                        "高粱",
+                        "玉米",
+                        "糯米"
+                    ],
+                    "pic": "GuJingGong"
+                },
+                {
+                    "name": "沱牌曲酒",
+                    "material": [
+                        "高粱",
+                        "大米",
+                        "糯米",
+                        "玉米",
+                        "小麦"
+                    ],
+                    "pic": "TuoPaiQuJiu"
+                }
+            ]
+        },
+        {
+            "flavor": "酱香型",
+            "material": [
+                "小麦",
+                "高粱",
+                "稻壳"
+            ],
+            "wine": [
+                {
+                    "name": "茅台酒",
+                    "material": [
+                        "高粱",
+                        "稻壳",
+                        "大米",
+                        "糯米",
+                        "小麦",
+                        "玉米"
+                    ],
+                    "pic": "MaoTai"
+                },
+                {
+                    "name": "武陵酒",
+                    "material": [
+                        "高粱",
+                        "小麦"
+                    ],
+                    "pic": "WuLingJiu"
+                },
+                {
+                    "name": "贵州醇",
+                    "material": [
+                        "高粱",
+                        "小麦"
+                    ],
+                    "pic": "GuiZhouChun"
+                },
+                {
+                    "name": "习酒",
+                    "material": [
+                        "高粱",
+                        "小麦"
+                    ],
+                    "pic": "GuiZhouYunJiu"
+                },
+                {
+                    "name": "华灯牌北京醇",
+                    "material": [
+                        "高粱",
+                        "大米",
+                        "糯米",
+                        "小麦",
+                        "玉米"
+                    ],
+                    "pic": ""
+                }
+            ]
+        },
+        {
+            "flavor": "清香型",
+            "material": [
+                "高粱",
+                "小米糠",
+                "大麦",
+                "豌豆",
+                "小麦",
+                "中草药",
+                "糯米"
+            ],
+            "wine": [
+                {
+                    "name": "杏花村汾酒",
+                    "material": [
+                        "大麦",
+                        "豌豆",
+                        "高粱",
+                        "小米糠"
+                    ],
+                    "pic": "FenYangFenJiu"
+                },
+                {
+                    "name": "二锅头酒",
+                    "material": [
+                        "高粱",
+                        "小麦",
+                        "玉米"
+                    ],
+                    "pic": "ErGuoTouJiu"
+                },
+                {
+                    "name": "宝丰酒",
+                    "material": [
+                        "高粱",
+                        "大麦",
+                        "小麦",
+                        "豌豆"
+                    ],
+                    "pic": "BaoFengJiu"
+                },
+                {
+                    "name": "黄鹤楼酒",
+                    "material": [
+                        "高粱",
+                        "豌豆",
+                        "大麦",
+                        "小麦"
+                    ],
+                    "pic": "HuangHeLouJiu"
+                },
+                {
+                    "name": "八仙酒",
+                    "material": [
+                        "中草药",
+                        "糯米"
+                    ],
+                    "pic": "BaXianJiu"
+                }
+            ]
+        },
+        {
+            "flavor": "米香型",
+            "material": [
+                "米粉",
+                "大米",
+                "黄豆",
+                "辣蓼草",
+                "糯米"
+            ],
+            "wine": [
+                {
+                    "name": "古越龙山牌绍兴酒",
+                    "material": [
+                        "大米"
+                    ],
+                    "pic": "ShaoXingJiu"
+                },
+                {
+                    "name": "三花酒",
+                    "material": [
+                        "大米",
+                        "辣蓼草"
+                    ],
+                    "pic": "SanHuaJiu"
+                },
+                {
+                    "name": "九江双蒸米酒",
+                    "material": [
+                        "大米",
+                        "黄豆"
+                    ],
+                    "pic": "ShuangZhengMiJiu"
+                },
+                {
+                    "name": "惠水黑糯米酒",
+                    "material": [
+                        "糯米"
+                    ],
+                    "pic": "HeiNuoMiJiu"
+                },
+                {
+                    "name": "湘山酒",
+                    "material": [
+                        "大米"
+                    ],
+                    "pic": ""
+                }
+            ]
+        },
+        {
+            "flavor": "芝麻香型",
+            "material": [
+                "小麦",
+                "高粱",
+                "玉米",
+                "麦麸",
+                "荻皮",
+                "小米",
+                "糯米",
+                "豌豆"
+            ],
+            "wine": [
+                {
+                    "name": "景芝酒",
+                    "material": [
+                        "高粱",
+                        "小麦",
+                        "麦麸",
+                        "玉米"
+                    ],
+                    "pic": "JingZhiBaiGan"
+                },
+                {
+                    "name": "扳倒井酒",
+                    "material": [
+                        "高粱",
+                        "小麦",
+                        "大米",
+                        "小米",
+                        "糯米"
+                    ],
+                    "pic": "BanDaoJinJiu"
+                },
+                {
+                    "name": "军马酒",
+                    "material": [
+                        "高粱",
+                        "小麦",
+                        "小米",
+                        "玉米"
+                    ],
+                    "pic": ""
+                },
+                {
+                    "name": "纳尔松酒",
+                    "material": [
+                        "高粱",
+                        "大麦",
+                        "豌豆"
+                    ],
+                    "pic": ""
+                },
+                {
+                    "name": "趵突泉酒",
+                    "material": [
+                        "高粱"
+                    ],
+                    "pic": ""
+                }
+            ]
+        },
+        {
+            "flavor": "兼香型",
+            "material": [
+                "小麦",
+                "高粱",
+                "稻壳",
+                "糯米",
+                "玉米",
+                "豌豆",
+                "大米",
+                "小米"
+            ],
+            "wine": [
+                {
+                    "name": "湘泉酒",
+                    "material": [
+                        "高粱",
+                        "糯米",
+                        "小麦",
+                        "小麦",
+                        "玉米"
+                    ],
+                    "pic": "XiangQuanJiu"
+                },
+                {
+                    "name": "郎酒",
+                    "material": [
+                        "高粱",
+                        "小麦",
+                        "豌豆"
+                    ],
+                    "pic": "LangJiu"
+                },
+                {
+                    "name": "景阳岗酒",
+                    "material": [
+                        "小麦",
+                        "高粱",
+                        "玉米",
+                        "大米",
+                        "小米"
+                    ],
+                    "pic": "JingYangGangJiu"
+                },
+                {
+                    "name": "孔府家酒",
+                    "material": [
+                        "高粱",
+                        "小麦"
+                    ],
+                    "pic": "KongFuJiaJiu"
+                },
+                {
+                    "name": "白云边酒",
+                    "material": [
+                        "高粱",
+                        "小麦",
+                        "稻壳"
+                    ],
+                    "pic": "BaiYunBian"
+                }
+            ]
+        },
+        {
+            "flavor": "豉香型",
+            "material": [
+                "大米",
+                "黄豆"
+            ],
+            "wine": [
+                {
+                    "name": "石湾玉冰烧",
+                    "material": [
+                        "大米",
+                        "黄豆"
+                    ],
+                    "pic": ""
+                },
+                {
+                    "name": "佛山小酒",
+                    "material": [
+                        "大米",
+                        "黄豆"
+                    ],
+                    "pic": ""
+                },
+                {
+                    "name": "琥珀小酒",
+                    "material": [
+                        "大米",
+                        "黄豆"
+                    ],
+                    "pic": ""
+                },
+                {
+                    "name": "春花红",
+                    "material": [
+                        "大米",
+                        "黄豆"
+                    ],
+                    "pic": ""
+                },
+                {
+                    "name": "帝壹酒",
+                    "material": [
+                        "大米",
+                        "黄豆"
+                    ],
+                    "pic": ""
+                }
+            ]
+        },
+        {
+            "flavor": "老白干香型",
+            "material": [
+                "小麦",
+                "稻壳"
+            ],
+            "wine": [
+                {
+                    "name": "衡水老白干",
+                    "material": [
+                        "稻壳",
+                        "小麦"
+                    ],
+                    "pic": "HengShuiLaoBaiGan"
+                },
+                {
+                    "name": "泸州老白干",
+                    "material": [
+                        "稻壳",
+                        "小麦"
+                    ],
+                    "pic": ""
+                },
+                {
+                    "name": "江津老白干",
+                    "material": [
+                        "稻壳",
+                        "小麦"
+                    ],
+                    "pic": ""
+                },
+                {
+                    "name": "衡水老白干(中国红)",
+                    "material": [
+                        "稻壳",
+                        "小麦"
+                    ],
+                    "pic": ""
+                },
+                {
+                    "name": "衡水老白干(古法)",
+                    "material": [
+                        "稻壳",
+                        "小麦"
+                    ],
+                    "pic": ""
+                }
+            ]
+        },
+        {
+            "flavor": "馥郁香型",
+            "material": [
+                "大米",
+                "糯米",
+                "玉米",
+                "小麦",
+                "高粱",
+                "豌豆"
+            ],
+            "wine": [
+                {
+                    "name": "金种子酒",
+                    "material": [
+                        "高粱",
+                        "大麦",
+                        "小麦",
+                        "糯米",
+                        "豌豆",
+                        "大米"
+                    ],
+                    "pic": "JinZhongZiJiu"
+                },
+                {
+                    "name": "酒鬼酒",
+                    "material": [
+                        "高粱",
+                        "糯米",
+                        "大米",
+                        "小麦",
+                        "玉米"
+                    ],
+                    "pic": "JiuGuiJiu"
+                },
+                {
+                    "name": "潭酒",
+                    "material": [
+                        "高粱"
+                    ],
+                    "pic": ""
+                },
+                {
+                    "name": "彭祖黄金酒",
+                    "material": [
+                        "高粱"
+                    ],
+                    "pic": ""
+                },
+                {
+                    "name": "内参酒",
+                    "material": [
+                        "高粱",
+                        "糯米",
+                        "大米",
+                        "小麦",
+                        "玉米"
+                    ],
+                    "pic": ""
+                }
+            ]
+        },
+        {
+            "flavor": "凤香型",
+            "material": [
+                "大麦",
+                "豌豆",
+                "高粱",
+                "稻壳",
+                "青稞"
+            ],
+            "wine": [
+                {
+                    "name": "西凤酒",
+                    "material": [
+                        "高粱",
+                        "大麦",
+                        "豌豆",
+                        "稻壳"
+                    ],
+                    "pic": "XiFengJiu"
+                },
+                {
+                    "name": "青稞特酿",
+                    "material": [
+                        "青稞"
+                    ],
+                    "pic": ""
+                },
+                {
+                    "name": "西凤特曲",
+                    "material": [
+                        "高粱",
+                        "大麦",
+                        "豌豆",
+                        "稻壳"
+                    ],
+                    "pic": ""
+                },
+                {
+                    "name": "劲牌酿",
+                    "material": [
+                        "青稞"
+                    ],
+                    "pic": ""
+                },
+                {
+                    "name": "西凤御窖",
+                    "material": [
+                        "高粱",
+                        "大麦",
+                        "豌豆",
+                        "稻壳"
+                    ],
+                    "pic": ""
+                }
+            ]
+        },
+        {
+            "flavor": "特香型",
+            "material": [
+                "面粉",
+                "麦麸",
+                "小麦",
+                "大米",
+                "稻壳",
+                "高粱",
+                "糯米",
+                "玉米"
+            ],
+            "wine": [
+                {
+                    "name": "四特酒",
+                    "material": [
+                        "面粉",
+                        "麦麸",
+                        "稻壳",
+                        "大米"
+                    ],
+                    "pic": "SiTeJiu"
+                },
+                {
+                    "name": "莲塘高粱",
+                    "material": [
+                        "小麦",
+                        "大米"
+                    ],
+                    "pic": ""
+                },
+                {
+                    "name": "金徽白酒",
+                    "material": [
+                        "小麦",
+                        "大米",
+                        "高粱",
+                        "糯米",
+                        "玉米"
+                    ],
+                    "pic": ""
+                },
+                {
+                    "name": "山藏洞酒",
+                    "material": [
+                        "小麦",
+                        "高粱"
+                    ],
+                    "pic": ""
+                },
+                {
+                    "name": "民族熊猫美酒",
+                    "material": [
+                        "小麦",
+                        "高粱"
+                    ],
+                    "pic": ""
+                }
+            ]
+        },
+        {
+            "flavor": "药香型",
+            "material": [
+                "大麦",
+                "大米",
+                "中草药",
+                "高粱",
+                "稻壳",
+                "肉桂",
+                "枸杞",
+                "杏仁"
+            ],
+            "wine": [
+                {
+                    "name": "董酒",
+                    "material": [
+                        "高粱",
+                        "中草药",
+                        "大米",
+                        "稻壳",
+                        "大麦"
+                    ],
+                    "pic": "ZunYiDongJiu"
+                },
+                {
+                    "name": "劲酒",
+                    "material": [
+                        "中草药",
+                        "肉桂"
+                    ],
+                    "pic": "JingJiu"
+                },
+                {
+                    "name": "平坝窖酒",
+                    "material": [
+                        "高粱",
+                        "大米",
+                        "小麦"
+                    ],
+                    "pic": "PingBaJiaoJiu"
+                },
+                {
+                    "name": "长寿长乐酒",
+                    "material": [
+                        "高粱",
+                        "枸杞",
+                        "中草药",
+                        "杏仁"
+                    ],
+                    "pic": "ChangLeJiu"
+                },
+                {
+                    "name": "三鞭酒",
+                    "material": [
+                        "中草药",
+                        "肉桂",
+                        "枸杞"
+                    ],
+                    "pic": ""
+                }
+            ]
+        }
+    ],
+    "totalX": [
+        "小麦",
+        "高粱",
+        "玉米",
+        "糯米",
+        "大米",
+        "豌豆",
+        "稻壳",
+        "大麦",
+        "小米糠",
+        "中草药",
+        "辣蓼草",
+        "黄豆",
+        "麦麸",
+        "小米",
+        "青稞",
+        "面粉",
+        "肉桂",
+        "枸杞",
+        "杏仁"
+    ]
+}

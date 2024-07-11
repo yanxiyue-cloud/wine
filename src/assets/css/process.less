@@ -1,0 +1,225 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.psvg {
+    z-index: 100;
+}
+
+.sort {
+    z-index: 1000;
+    display: flex;
+    position: absolute;
+    right: 100px;
+    top: 60px;
+    animation: appear 0.5s;
+}
+
+.shortM,
+.longM,
+.line,
+.lineChild {
+    fill: none;
+    stroke: rgb(201, 159, 159);
+    stroke-width: 5px;
+    stroke-linecap: round;
+}
+
+.scircle {
+    stroke: rgb(201, 159, 159);
+}
+
+.dot {
+    fill: white;
+    stroke: #80d1c8;
+    stroke-width: 2px;
+}
+
+.dot.main {
+    fill: #80d1c8;
+    stroke: white;
+    opacity: 0.7;
+}
+
+.step {
+    font-size: 22px;
+    color: #ffe4c4;
+    font-family: KaiTi;
+}
+
+.step.main {
+    font-size: 30px;
+    font-family: STXingkai;
+}
+
+.dot.main.active,
+.dot.active {
+    transform-origin: center center;
+    transform-box: fill-box;
+    cursor: pointer;
+    stroke: #01847f;
+    fill: #80d1c8;
+    stroke-width: 6px;
+    opacity: 0.5;
+    transition: scale 0.5s;
+}
+
+.dot.main.active:hover,
+.dot.active:hover {
+    opacity: 1;
+    stroke-width: 7;
+    scale: 1.2
+}
+
+
+.dot.active.selected,
+.dot.main.active.selected {
+    stroke: #984f31;
+    fill: burlywood;
+}
+
+.tooltip {
+    position: absolute;
+    width: calc(100% * 0.7);
+    height: calc(100% / 4);
+    left: calc(100% / 10);
+    top: calc(100% / 6);
+    border-top: 3px solid rgb(160, 119, 119);
+    border-bottom: 3px solid rgb(147, 116, 116);
+    overflow: hidden;
+
+    .tooltip-des {
+        position: absolute;
+        width: 90%;
+        height: calc(95%);
+        left: 5%;
+        top: calc(4% / 2);
+        border-top: 1px solid rgb(235, 189, 189);
+        border-bottom: 1px solid rgb(235, 189, 189);
+    }
+
+    .init {
+        width: 100%;
+        height: 100%;
+        // display: none;
+        display: flex;
+        align-items: center;
+        justify-content: space-around;
+
+        .init-image {
+            height: 40%;
+        }
+    }
+
+    .after {
+        margin-top: 2%;
+        padding: 20px;
+        box-sizing: border-box;
+        width: 100%;
+        height: 90%;
+        background: url('../image/process/大悬浮框.png');
+        background-size: 100% 100%;
+        display: flex;
+        align-items: center;
+
+        .active-image {
+            height: 100%;
+            width: 25%;
+            background: url('../image/process/0.png') no-repeat;
+            background-size: 90%;
+            background-position: center;
+        }
+
+        .text {
+            width: 75%;
+            height: 100%;
+            box-sizing: border-box;
+
+            .title {
+                width: 98%;
+                height: 20%;
+                font-weight: bold;
+                font-family: KaiTi;
+                font-size: 30px;
+                border-bottom: 1px solid rgb(203, 195, 195);
+            }
+
+            .active-text {
+                margin: 0 auto;
+                box-sizing: border-box;
+                height: 80%;
+                width: 98%;
+                padding: 14px 0;
+                // background-color: #80d1c8;
+                font-family: KaiTi;
+                color: #4c4945;
+                font-size: 22px;
+                text-align: left;
+                overflow: auto;
+                z-index: 100;
+                text-indent: 44px;
+            }
+
+            .active-text::-webkit-scrollbar {
+                width: 6px;
+            }
+
+            .active-text::-webkit-scrollbar-thumb {
+                background-color: #0003;
+                border-radius: 3px;
+            }
+
+            .active-text::-webkit-scrollbar-track {
+                border-radius: 10px;
+                background-color: #efdcc1;
+            }
+        }
+
+    }
+}
+
+
+.cur-process {
+    animation: curProcess 1.5s ease-in-out infinite;
+    transform-box: fill-box;
+    transform-origin: center center;
+}
+
+.nodeMain,
+.nodeChild {
+    fill: white;
+    stroke: #b1ada7;
+    stroke-width: 3;
+
+    .processtext {
+        fill: black;
+        stroke: black;
+        stroke-width: 0;
+        font-family: KaiTi;
+    }
+}
+
+@keyframes appear {
+    0% {
+        opacity: 0;
+    }
+
+    100% {
+        opacity: 1;
+    }
+}
+
+@keyframes curProcess {
+    0% {
+        scale: 1;
+    }
+
+    50% {
+        scale: 1.1;
+    }
+
+    100% {
+        scale: 1;
+    }
+}

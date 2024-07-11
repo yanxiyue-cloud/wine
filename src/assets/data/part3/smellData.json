@@ -1,0 +1,537 @@
+{
+  "name": "root",
+  "children": [
+    {
+      "name": "香气",
+      "itemStyle": {
+        "color": "rgb(219,203,167)"
+      },
+      "children": [
+        {
+          "name": "陈酿香",
+          "value": 1,
+          "itemStyle": {
+            "color": "rgb(230,222,197)"
+          },
+          "children": [
+            {
+              "name": "枣香",
+              "value": 1,
+              "itemStyle": {
+                "color": "#FFD4ED"
+              }
+            },
+            {
+              "name": "酒海香",
+              "value": 1,
+              "itemStyle": {
+                "color": "#FFD4ED"
+              },
+              "detail": "西凤酒经过其特殊的储存容器——酒海储存后散发出来的特殊香气，",
+              "flavor": [
+                "凤"
+              ]
+            },
+            {
+              "name": "油脂香",
+              "value": 1,
+              "itemStyle": {
+                "color": "#FFD4ED"
+              },
+              "flavor": [
+                "豉"
+              ]
+            },
+            {
+              "name": "陈香",
+              "value": 1,
+              "itemStyle": {
+                "color": "#FFD4ED"
+              }
+            }
+          ]
+        },
+        {
+          "name": "发酵香",
+          "itemStyle": {
+            "color": "rgb(230,222,197)"
+          },
+          "children": [
+            {
+              "name": "酸香",
+              "value": 1,
+              "itemStyle": {
+                "color": "rgb(214,196,206)"
+              }
+            },
+            {
+              "name": "甜香",
+              "value": 1,
+              "itemStyle": {
+                "color": "#FEFFED"
+              }
+            },
+            {
+              "name": "木香",
+              "value": 1,
+              "itemStyle": {
+                "color": "#FEFFED"
+              }
+            },
+            {
+              "name": "坚果香",
+              "value": 1,
+              "itemStyle": {
+                "color": "#FEFFED"
+              }
+            },
+            {
+              "name": "青草香",
+              "value": 1,
+              "itemStyle": {
+                "color": "#FEFFED"
+              }
+            },
+            {
+              "name": "蜜香",
+              "value": 1,
+              "itemStyle": {
+                "color": "#FEFFED"
+              },
+              "detail": "产生一种淡雅的蜜香，大大提升了品质。",
+              "flavor": [
+                "凤",
+                "米"
+              ]
+            },
+            {
+              "name": "花香",
+              "value": 1,
+              "itemStyle": {
+                "color": "#FEFFED"
+              }
+            },
+            {
+              "name": "果香",
+              "value": 1,
+              "itemStyle": {
+                "color": "#FEFFED"
+              }
+            },
+            {
+              "name": "糟香",
+              "value": 1,
+              "itemStyle": {
+                "color": "#FEFFED"
+              }
+            },
+            {
+              "name": "芝麻香",
+              "value": 1,
+              "itemStyle": {
+                "color": "#FEFFED"
+              },
+              "detail": "香气典雅、香气突出，尾净余香，具有芝麻香风格",
+              "flavor": [
+                "芝"
+              ]
+            },
+            {
+              "name": "焦香",
+              "value": 1,
+              "itemStyle": {
+                "color": "#FEFFED"
+              },
+              "detail": "糖与蛋白质氨基酸在加热过程中形成的产物，是人们喜爱的焙炒香气",
+              "flavor": [
+                "酱",
+                "兼",
+                "特"
+              ]
+            },
+            {
+              "name": "米香",
+              "value": 1,
+              "itemStyle": {
+                "color": "#FEFFED"
+              },
+              "detail": "清雅、纯正、突出，具有米香，带异香，其他香等",
+              "flavor": [
+                "米"
+              ]
+            },
+            {
+              "name": "酱香",
+              "value": 1,
+              "itemStyle": {
+                "color": "#FEFFED"
+              },
+              "detail": "具有类似酱食品的香气，普遍认为酱香是由高沸点的酸性物质与低沸点的醇类组成的复合香气。",
+              "flavor": [
+                "酱",
+                "兼"
+              ]
+            },
+            {
+              "name": "窖香",
+              "value": 1,
+              "itemStyle": {
+                "color": "#FEFFED"
+              },
+              "detail": "具有窖底香或带有老窖香气，比较舒适细腻",
+              "flavor": [
+                "浓"
+              ]
+            },
+            {
+              "name": "清香",
+              "value": 1,
+              "itemStyle": {
+                "color": "#FEFFED"
+              },
+              "detail": "清淡的香味，主体香乙酸乙酯和乳酸乙酯搭配协调，琥珀酸的含量较高，清字当头，净字到底",
+              "flavor": [
+                "清"
+              ]
+            },
+            {
+              "name": "醇香",
+              "value": 1,
+              "itemStyle": {
+                "color": "#FEFFED"
+              },
+              "flavor": [
+                "凤"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "原料香",
+          "value": 1,
+          "itemStyle": {
+            "color": "rgb(230,222,197)"
+          },
+          "children": [
+            {
+              "name": "粮香",
+              "value": 1,
+              "itemStyle": {
+                "color": "#FFFFD6"
+              }
+            },
+            {
+              "name": "高粱香",
+              "value": 1,
+              "itemStyle": {
+                "color": "#FFFFD6"
+              }
+            },
+            {
+              "name": "大米香",
+              "value": 1,
+              "itemStyle": {
+                "color": "#FFFFD6"
+              }
+            },
+            {
+              "name": "豆香",
+              "value": 1,
+              "itemStyle": {
+                "color": "#FFFFD6"
+              }
+            },
+            {
+              "name": "药香",
+              "value": 1,
+              "itemStyle": {
+                "color": "#FFFFD6"
+              },
+              "detail": "具有较浓郁的酯类香气，药香突出，带有丁酸及丁酸乙酯的复合香气",
+              "flavor": [
+                "药"
+              ]
+            },
+            {
+              "name": "米糠香",
+              "value": 1,
+              "itemStyle": {
+                "color": "#FFFFD6"
+              }
+            },
+            {
+              "name": "曲香",
+              "value": 1,
+              "itemStyle": {
+                "color": "#FFFFD6"
+              },
+              "detail": "具有高中温大曲的成品香气，四川浓香型名酒所共有的特点",
+              "flavor": [
+                "浓"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "口感",
+      "itemStyle": {
+        "color": "rgb(219,203,197)"
+      },
+      "children": [
+        {
+          "name": "持久度",
+          "itemStyle": {
+            "color": "rgb(231,223,213)"
+          },
+          "children": [
+            {
+              "name": "短暂",
+              "value": 1,
+              "itemStyle": {
+                "color": "#E9ECFF"
+              }
+            },
+            {
+              "name": "悠长",
+              "value": 1,
+              "itemStyle": {
+                "color": "#E9ECFF"
+              },
+              "flavor": [
+                "酱",
+                "兼",
+                "特",
+                "芝"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "纯净度",
+          "itemStyle": {
+            "color": "rgb(231,223,213)"
+          },
+          "children": [
+            {
+              "name": "涩口",
+              "value": 1,
+              "itemStyle": {
+                "color": "#E9ECFF"
+              }
+            },
+            {
+              "name": "爽净",
+              "value": 1,
+              "itemStyle": {
+                "color": "#E9ECFF"
+              },
+              "flavor": [
+                "浓",
+                "米",
+                "兼",
+                "药",
+                "豉",
+                "清"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "谐调度",
+          "itemStyle": {
+            "color": "rgb(231,223,213)"
+          },
+          "children": [
+            {
+              "name": "粗糙",
+              "value": 1,
+              "itemStyle": {
+                "color": "#E9ECFF"
+              }
+            },
+            {
+              "name": "谐调",
+              "value": 1,
+              "itemStyle": {
+                "color": "#E9ECFF"
+              },
+              "flavor": [
+                "特",
+                "药",
+                "豉",
+                "芝",
+                "馥",
+                "浓",
+                "清",
+                "凤",
+                "兼",
+                "白"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "丰满度",
+          "itemStyle": {
+            "color": "rgb(231,223,213)"
+          },
+          "children": [
+            {
+              "name": "平淡",
+              "value": 1,
+              "itemStyle": {
+                "color": "#E9ECFF"
+              }
+            },
+            {
+              "name": "浓厚",
+              "value": 1,
+              "itemStyle": {
+                "color": "#E9ECFF"
+              }
+            }
+          ]
+        },
+        {
+          "name": "柔和度",
+          "itemStyle": {
+            "color": "rgb(231,223,213)"
+          },
+          "children": [
+            {
+              "name": "辛辣",
+              "value": 1,
+              "itemStyle": {
+                "color": "#E9ECFF"
+              }
+            },
+            {
+              "name": "醇和",
+              "value": 1,
+              "itemStyle": {
+                "color": "#E9ECFF"
+              },
+              "flavor": [
+                "浓",
+                "米",
+                "豉",
+                "兼",
+                "芝",
+                "特",
+                "药",
+                "清"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "口味",
+      "itemStyle": {
+        "color": "rgb(231,223,213)"
+      },
+      "children": [
+        {
+          "name": "鲜",
+          "itemStyle": {
+            "color": "#D1FFFF"
+          },
+          "flavor": [
+            "豉"
+          ]
+        },
+        {
+          "name": "咸",
+          "itemStyle": {
+            "color": "#D1FFFF"
+          },
+          "flavor": [
+            "豉"
+          ]
+        },
+        {
+          "name": "苦",
+          "itemStyle": {
+            "color": "#D1FFFF"
+          },
+          "flavor": [
+            "芝",
+            "药",
+            "米"
+          ]
+        },
+        {
+          "name": "酸",
+          "itemStyle": {
+            "color": "#D1FFFF"
+          },
+          "flavor": [
+            "药"
+          ]
+        },
+        {
+          "name": "甜",
+          "itemStyle": {
+            "color": "#D1FFFF"
+          },
+          "flavor": [
+            "浓",
+            "清",
+            "凤",
+            "米",
+            "特",
+            "药",
+            "豉",
+            "芝",
+            "白",
+            "馥"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "颜色",
+      "itemStyle": {
+        "color": "rgb(219,223,197)"
+      },
+      "children": [
+        {
+          "name": "无悬浮物",
+          "flavor": "all",
+          "itemStyle": {
+            "color": "rgb(241,243,244)"
+          }
+        },
+        {
+          "name": "无沉淀",
+          "flavor": "all",
+          "itemStyle": {
+            "color": "rgb(241,243,244)"
+          }
+        },
+        {
+          "name": "无色透明",
+          "flavor": "all",
+          "itemStyle": {
+            "color": "rgb(241,243,244)"
+          }
+        },
+        {
+          "name": "微黄",
+          "flavor": [
+            "浓",
+            "酱",
+            "兼",
+            "白"
+          ],
+          "itemStyle": {
+            "color": "rgb(241,243,244)"
+          }
+        }
+      ]
+    }
+  ]
+}

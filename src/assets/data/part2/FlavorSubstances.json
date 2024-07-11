@@ -1,0 +1,494 @@
+{
+    "acid":[
+        {
+            "name":"乙酸",
+            "smell":"臭",
+            "detail":"汗臭，动物臭，酸臭，甜香，水果香"
+        },
+        {
+            "name":"丙酸",
+            "smell":"",
+            "detail":""
+        },
+        {
+            "name":"丁酸",
+            "smell":"臭",
+            "detail":"汗臭，酸臭，窖泥臭"
+        },
+        {
+            "name": "异丁酸",
+            "smell":"",
+            "detail":""
+        },
+        {
+            "name": "戊酸",
+            "smell":"臭",
+            "detail":"窖泥臭，汗臭，酸臭"
+        },
+        {
+            "name": "异戊酸",
+            "smell":"臭",
+            "detail":"汗臭，酸臭，脂肪臭"
+        },
+        {
+            "name": "己酸",
+            "smell":"臭",
+            "detail":"汗臭，动物臭，酸臭，甜香，水果香"
+        },
+        {
+            "name": "庚酸",
+            "smell":"臭",
+            "detail":"酸臭，汗臭，窖泥臭，霉臭"
+        },
+        {
+            "name": "辛酸",
+            "smell":"香",
+            "detail":"水果香，花香，油脂臭"
+        },
+        {
+            "name": "壬酸",
+            "smell":"臭",
+            "detail":"脂肪臭"
+        },
+        {
+            "name": "癸酸",
+            "smell":"臭",
+            "detail":"山羊臭，酒稍子臭，胶皮臭，油漆臭，动物臭"
+        },
+        {
+            "name": "乳酸",
+            "smell":"",
+            "detail":"甜香，水果香，青草香"
+        },
+        {
+            "name": "棕桐酸",
+            "smell":"",
+            "detail":""
+        },
+        {
+            "name": "亚油酸",
+            "smell":"",
+            "detail":""
+        },
+        {
+            "name": "油酸",
+            "smell":"",
+            "detail":""
+        },
+        {
+            "name": "苯甲酸",
+            "smell":"",
+            "detail":""
+        },
+        {
+            "name": "苯乙酸",
+            "smell":"",
+            "detail":""
+        },
+        {
+            "name": "异己酸",
+            "smell":"",
+            "detail":""
+        },
+        {
+            "name": "肉豆蔻酸",
+            "smell":"",
+            "detail":""
+        },
+        {
+            "name": "十五酸",
+            "smell":"",
+            "detail":""
+        },
+        {
+            "name": "硬脂酸",
+            "smell":"",
+            "detail":""
+        },
+        {
+            "name": "月桂酸",
+            "smell":"",
+            "detail":""
+        },
+        {
+            "name": "苯丙酸",
+            "smell":"",
+            "detail":""
+        },
+        {
+            "name": "甲酸",
+            "smell":"香",
+            "detail":"蜂蜜，花香，洋槐花香，玫瑰花香"
+        },
+        {
+            "name": "丁二酸",
+            "smell":"香",
+            "detail":"水果香，花香，花粉香"
+        },
+        {
+            "name": "十三酸",
+            "smell":"",
+            "detail":""
+        },
+        {
+            "name": "棕桐油酸",
+            "smell":"",
+            "detail":""
+        }
+    ],
+    "ester":[
+        {
+            "name":"甲酸乙酯",
+            "smell":"臭",
+            "detail":"汗臭，酸臭，窖泥臭"
+        },
+        {
+            "name": "乙酸乙酯",
+            "smell":"香",
+            "detail":"菠萝香，苹果香，水果香"
+        },
+        {
+            "name": "丙酸乙酯",
+            "smell":"香",
+            "detail":"香蕉香，水果香"
+        },
+        {
+            "name": "丁酸乙酯",
+            "smell":"香",
+            "detail":"苹果香，菠萝香，水果香，花香"
+        },
+        {
+            "name": "乳酸乙酯",
+            "smell":"香",
+            "detail":"甜香，水果香，青草香"
+        },
+        {
+            "name": "戊酸乙酯",
+            "smell":"香",
+            "detail":"水蜜桃香，水果香，花香，甜香"
+        },
+        {
+            "name": "己酸乙酯",
+            "smell":"香",
+            "detail":"甜香，水果香，窖香，青瓜香"
+        },
+        {
+            "name": "庚酸乙酯",
+            "smell":"香",
+            "detail":"花香，水果香，蜜香，甜香"
+        },
+        {
+            "name": "丁二酸二乙酯",
+            "smell":"香",
+            "detail":"水果香，花香，花粉香"
+        },
+        {
+            "name": "辛酸乙酯",
+            "smell":"香",
+            "detail":"梨子香，荔枝香，水果香，甜香，百合花香"
+        },
+        {
+            "name": "苯乙酸乙酯",
+            "smell":"香",
+            "detail":"玫瑰花香，桂花香，洋槐花香，蜂蜜香，花香"
+        },
+        {
+            "name": "癸酸乙酯",
+            "smell":"香",
+            "detail":"菠萝香，水果香，花香"
+        },
+        {
+            "name": "乙酸丁酯",
+            "smell":"",
+            "detail":""
+        },
+        {
+            "name": "乙酸异戊酯",
+            "smell":"香",
+            "detail":"香蕉香，甜香，苹果香，水果糖香"
+        },
+        {
+            "name": "己酸丁酯",
+            "smell":"香",
+            "detail":"甜香，水果香，窖香，青瓜香"
+        },
+        {
+            "name": "壬酸乙酯",
+            "smell":"香",
+            "detail":"酯香，蜜香，水果香"
+        },
+        {
+            "name": "月桂酸乙酯",
+            "smell":"",
+            "detail":""
+        },
+        {
+            "name": "肉豆蔻酸乙酯",
+            "smell":"",
+            "detail":""
+        },
+        {
+            "name": "棕桐酸乙酯",
+            "smell":"",
+            "detail":""
+        },
+        {
+            "name": "亚油酸乙酯",
+            "smell":"",
+            "detail":""
+        },
+        {
+            "name": "油酸乙酯",
+            "smell":"",
+            "detail":""
+        },
+        {
+            "name": "硬脂酸乙酯",
+            "smell":"",
+            "detail":""
+        },
+        {
+            "name": "异丁酸乙酯",
+            "smell":"香",
+            "detail":"桂花香，苹果香，水蜜桃香，水果香"
+        },
+        {
+            "name": "庚二酸二乙酯",
+            "smell":"",
+            "detail":""
+        },
+        {
+            "name": "辛二酯二乙酯",
+            "smell":"",
+            "detail":""
+        },
+        {
+            "name": "壬二酯二乙酯",
+            "smell":"",
+            "detail":""
+        },
+        {
+            "name": "苯甲酸乙酯",
+            "smell":"香",
+            "detail":"蜂蜜，花香，洋槐花香，玫瑰花香"
+        },
+        {
+            "name": "己酸异戊酯",
+            "smell":"",
+            "detail":""
+        },
+        {
+            "name": "丁酸异戊酯",
+            "smell":"",
+            "detail":""
+        },
+        {
+            "name": "异戊酸异戊酯",
+            "smell":"",
+            "detail":""
+        },
+        {
+            "name": "正戊酸异戊酯",
+            "smell":"",
+            "detail":""
+        },
+        {
+            "name": "甲酸己酯",
+            "smell":"",
+            "detail":""
+        },
+        {
+            "name": "乙酸异丁酯",
+            "smell":"",
+            "detail":""
+        },
+        {
+            "name": "乙酸己酯",
+            "smell":"",
+            "detail":""
+        },
+        {
+            "name": "己酸-2-丁酯",
+            "smell":"",
+            "detail":""
+        },
+        {
+            "name": "己酸-2-甲基丁酯",
+            "smell":"",
+            "detail":""
+        },
+        {
+            "name": "己酸正戊酯",
+            "smell":"",
+            "detail":""
+        },
+        {
+            "name": "异丁酸乙酯",
+            "smell":"香",
+            "detail":"桂花香，苹果香，水蜜桃香，水果香"
+        },
+        {
+            "name": "丁酸-2-甲基丁酯",
+            "smell":"",
+            "detail":""
+        },
+        {
+            "name": "异戊酸乙酯",
+            "smell":"香",
+            "detail":"苹果香，菠萝香，香蕉香，水果香"
+        },
+        {
+            "name": "异庚酸乙酯",
+            "smell":"",
+            "detail":""
+        },
+        {
+            "name": "2-甲基戊酸乙酯",
+            "smell":"",
+            "detail":""
+        },
+        {
+            "name": "异己酸乙酯",
+            "smell":"",
+            "detail":""
+        },
+        {
+            "name": "己酸甲酯",
+            "smell":"",
+            "detail":""
+        },
+        {
+            "name": "己酸异丁酯",
+            "smell":"",
+            "detail":""
+        },
+        {
+            "name": "硬脂酸乙酯",
+            "smell":"",
+            "detail":""
+        },
+        {
+            "name": "苯乙酸乙酯",
+            "smell":"香",
+            "detail":"玫瑰花香，桂花香，洋槐花香，蜂蜜香，花香"
+        }
+        
+    ],
+    "alcohol": [
+        {
+            "name": "正丙醇",
+            "smell":"香",
+            "detail":"水果香，花香，青草香"
+        },
+        {
+            "name": "2, 3-丁二醇",
+            "smell":"",
+            "detail":""
+        },
+        {
+            "name": "异丁醇",
+            "smell":"",
+            "detail":""
+        },
+        {
+            "name": "正丁醇",
+            "smell":"香",
+            "detail":"水果香"
+        },
+        {
+            "name": "异戊醇",
+            "smell":"香",
+            "detail":"水果香，花香，臭"
+        },
+        {
+            "name": "己醇",
+            "smell":"",
+            "detail":""
+        },
+        {
+            "name": "仲丁醇",
+            "smell":"",
+            "detail":""
+        },
+        {
+            "name": "正戊醇",
+            "smell":"",
+            "detail":""
+        },
+        {
+            "name": "苯乙醇",
+            "smell":"香",
+            "detail":"玫瑰花香，月季花香，花香，花粉香"
+        },
+        {
+            "name": "正己醇",
+            "smell":"",
+            "detail":""
+        },
+        {
+            "name": "庚醇",
+            "smell":"香",
+            "detail":"水蜜桃香，杂醇油臭，水果香，花香，蜜香"
+        },
+        {
+            "name": "辛醇",
+            "smell":"",
+            "detail":""
+        },
+        {
+            "name": "第二戊醇",
+            "smell":"",
+            "detail":""
+        },
+        {
+            "name": "第三戊醇",
+            "smell":"",
+            "detail":""
+        },
+        {
+            "name": "正乙醇",
+            "smell":"",
+            "detail":""
+        },
+        {
+            "name": "β-苯乙醇",
+            "smell":"",
+            "detail":""
+        },
+        {
+            "name": "甲醇",
+            "smell":"香",
+            "detail":"花香，水果香，甜香，酯香"
+        },
+        {
+            "name": "2-丁醇",
+            "smell":"",
+            "detail":""
+        },
+        {
+            "name": "2-戊醇",
+            "smell":"",
+            "detail":""
+        },
+        {
+            "name": "2-甲基-1-丁醇",
+            "smell":"",
+            "detail":""
+        },
+        {
+            "name": "1,2-丙二醇",
+            "smell":"",
+            "detail":""
+        },
+        {
+            "name": "正庚醇",
+            "smell":"",
+            "detail":""
+        },
+        {
+            "name": "糠醇",
+            "smell":"",
+            "detail":""
+        }
+    ]
+}
